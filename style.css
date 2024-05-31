@@ -331,6 +331,7 @@ header{
     border-radius: 5px;
     background-color: transparent;
     border-color: rgb(104, 255, 149);
+    color: white;
 }
 #input-message{
     width: 80%;
@@ -338,6 +339,7 @@ header{
     border-radius: 5px;
     background-color: transparent;
     border-color: rgb(104, 255, 149);
+    color: white;
 }
 #button-contact{
     background-color: rgb(104, 255, 149);
