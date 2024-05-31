@@ -4,7 +4,7 @@
 }
 header{
     display: flex;
-    background-image: url('../assets/images/banner-bk.jpg');
+    background-image: url('assets/images/banner-bk.jpg');
     background-size:cover;
     background-repeat: no-repeat;
     height: 1000px;
@@ -91,7 +91,7 @@ header{
     width: 20%;
 }
 #sect-2-3{
-    background-image: url('../assets/images/sect-2-3.png');
+    background-image: url('assets/images/sect-2-3.png');
     background-repeat: no-repeat;
     background-size:cover;
 }
@@ -263,7 +263,7 @@ header{
 }
 #section6{
     display: flex;
-    background-image: url('../assets/images/contact-bk.jpg');
+    background-image: url('assets/images/contact-bk.jpg');
     background-size:cover;
     background-repeat: no-repeat;
     height: 1000px;
